@@ -1,5 +1,6 @@
 oo
 bin/**
+gen/
 tmp/**
 tmp/**/*
 *.tmp
