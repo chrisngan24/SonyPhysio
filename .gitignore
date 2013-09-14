@@ -1,5 +1,6 @@
 oo
 bin/**
+gen/
 tmp/**
 tmp/**/*
 *.tmp
@@ -8,6 +9,7 @@ tmp/**/*
 *~.nib
 local.properties
 .classpath
+.project
 .settings/
 .loadpath
 
