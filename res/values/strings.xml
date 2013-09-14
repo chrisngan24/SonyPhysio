@@ -1,8 +1,10 @@
-<?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name">Physio</string>
-    <string name="action_settings">Settings</string>
-    <string name="hello_world">Hello world!</string>
+    <string name="app_name">HelloSmartWatch</string>
+    <string name="configuration_text">Hello Smart Watch</string>
+    <string name="extension_name">Hello World</string>
+    <string name="preference_key_read_me">Read me</string>
+    <string name="preference_option_read_me">Read me</string>
+    <string name="preference_activity_title">Settings</string>
 
 </resources>
